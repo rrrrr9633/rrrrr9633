@@ -5,7 +5,7 @@
   
 - 🎓 I am a beginner in programming and I am striving to learn GitHub and open-source collaboration.  
 - 💼Currently, I am studying at Liaoning University, majoring in Computer Science.
-- 🌱 I am passionate about programming, especially Python.  
+- 🌱 I am passionate about programming, include 'C,C++,python'.  
 - 💬 I enjoy communicating with people. If you have any questions or suggestions, please feel free to contact me.  
   
 ## 📚 Skills and Interests 
