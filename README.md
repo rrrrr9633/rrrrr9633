@@ -10,8 +10,8 @@
   
 ## 📚 Skills and Interests 
   
-- 💻 **Programming Language**：I am learning C language and Python.  
-- 📖 **Interest**：I am interested in software development and front-end development.
+- 💻 **Programming Language**：I am learning C++ language and Python.  
+- 📖 **Interest**：I am interested in software development and cyber security.
   
 ## 💼 Work experience
 - I have no prior work experience.
