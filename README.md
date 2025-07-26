@@ -1,4 +1,4 @@
-# 👋 Hi, this is Banzhi7c's GitHub Profile.👋  
+# 👋 Hi, this is Chen Haoran's GitHub Profile.👋  
   
 
 ## 👤 About me
